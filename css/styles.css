@@ -1,5 +1,5 @@
 body {
-  background-color: #ddd;
+  background-color: #D3D3D3;
 }
 .main-heading {
   text-align: center;
@@ -53,4 +53,12 @@ body {
 .btn {
     background-color: blue;
     color: white;
+}
+
+ol {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
 }
