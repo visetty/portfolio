@@ -29,6 +29,7 @@ body {
   box-sizing: content-box;
   background-color: coral;
   border-color: inherit;
+  border: 2px solid green;
 }
 
 .well p {
@@ -89,4 +90,9 @@ ul {
 a {
   font-weight: bold;
   color: black;
+}
+
+.img-thumbnail {
+  border: 3px solid green;
+  margin: 3px;
 }
