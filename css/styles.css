@@ -33,6 +33,11 @@ body {
   font-size: 15px;
 }
 
+.well h4 {
+  font-weight: bolder;
+  color: #2F4F4F;
+}
+
 /* Facebook */
 .fa-facebook {
     background: #3B5998;
