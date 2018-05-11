@@ -38,7 +38,7 @@ body {
 
 .well h4 {
   font-weight: bolder;
-  color: #2F4F4F;
+  color: #0040ff;
 }
 
 /* Facebook */
@@ -74,4 +74,18 @@ ol {
 
 ul {
   list-style: none;
+}
+
+.v {
+  color: #3300FF;
+  font-family: serif;
+  font-size: 20px;
+}
+
+.v-h {
+  color: #0040ff;
+}
+
+a {
+  font-weight: bold;
 }
