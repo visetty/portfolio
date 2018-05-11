@@ -14,6 +14,8 @@
   font-size: 20px;
 }
 
-* {
-  margin: 0px;
+.well {
+  padding: 50px;
+  margin: 60px;
+  box-sizing: content-box;
 }
