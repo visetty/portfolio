@@ -1,5 +1,5 @@
 body {
-  background-color: #D3D3D3;
+  background-color: #A9A9A9;
 }
 
 .p-body{
@@ -24,6 +24,7 @@ body {
 .well {
   padding: 50px;
   margin: 60px;
+  margin-bottom: 30px;
   box-sizing: content-box;
   background-color: coral;
   border-color: inherit;
@@ -62,6 +63,7 @@ body {
 .btn {
     background-color: blue;
     color: white;
+
 }
 
 ol {
