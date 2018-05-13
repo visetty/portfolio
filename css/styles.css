@@ -1,9 +1,9 @@
-body {
-  background-color: #A9A9A9;
-}
+/*about page css*/
 
-.p-body{
-  background-image: url("../images/project.jpg");
+#cover-image {
+  height: 100vh;
+  position: relative;
+  overflow: auto;
 }
 
 .main-heading {
@@ -20,6 +20,12 @@ body {
   background-color: #ddd;
   color: white;
   font-size: 20px;
+}
+
+/*about page css*/
+
+body {
+  background-color: #A9A9A9;
 }
 
 .well {
@@ -44,37 +50,33 @@ body {
 
 /* Facebook */
 .fa-facebook {
-    background: #3B5998;
-    color: white;
+  background: #3B5998;
+  color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-    background: #55ACEE;
-    color: white;
+  background: #55ACEE;
+  color: white;
 }
 
 /* Style all font awesome icons */
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-}
-
-.btn {
-    background-color: blue;
-    color: white;
-
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 }
 
 ol {
   list-style: none;
+  padding: 0px;
 }
 
 ul {
   list-style: none;
+  padding: 0px;
 }
 
 .v {
@@ -87,12 +89,23 @@ ul {
   color: #0040ff;
 }
 
+.img-thumbnail {
+  border: 3px solid green;
+  margin: 3px;
+}
+
+/*project page css*/
+
 a {
   font-weight: bold;
   color: black;
 }
 
-.img-thumbnail {
-  border: 3px solid green;
-  margin: 3px;
+.btn {
+  background-color: blue;
+  color: white;
+}
+
+.p-body{
+  background-image: url("../images/project.jpg");
 }
