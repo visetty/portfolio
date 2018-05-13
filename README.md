@@ -14,7 +14,7 @@ Download this repository.
 
 Open a file in the terminal to clone or download.
 
-[click here](https://github.com/visetty/portfolio "Portfolio Project") to go to the project page on github.
+[click here](https://visetty.github.io/portfolio/) to go to the project page of Visala on github.
 
 ## Known Bugs
 
